@@ -5,12 +5,12 @@ except ImportError:
 
 setup(
     name='ethjsonrpc',
-    version='0.3.0',
+    version='0.3.1',
     description='Ethereum JSON-RPC client',
     long_description=open('README.rst').read(),
     author='ConsenSys',
     author_email='info@consensys.net',
-    url='https://github.com/ConsenSys/ethjsonrpc',
+    url='https://github.com/riddleandcode/ethjsonrpc',
     packages=['ethjsonrpc'],
     license='Unlicense',
     classifiers=[
