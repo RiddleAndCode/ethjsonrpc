@@ -9,7 +9,7 @@ setup(
     description='Ethereum JSON-RPC client',
     long_description=open('README.rst').read(),
     author='ConsenSys',
-    author_email='info@consensys.net',
+    author_email='support@riddleandcode.com',
     url='https://github.com/riddleandcode/ethjsonrpc',
     packages=['ethjsonrpc'],
     license='Unlicense',
@@ -22,7 +22,7 @@ setup(
         'Programming Language :: Python :: 2',
     ],
     install_requires=[
-        'ethereum==1.0.8',
+        'ethereum==1.3.6',
         'requests>=2.9.1',
     ],
 )
